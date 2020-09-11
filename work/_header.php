@@ -10,19 +10,13 @@
 </head>
 <body>
   <div id="header">
-    <h1><a href=index.html>英単語暗記勉強用サイト</a></h1>
+    <h1><a href=index.php>英単語暗記勉強用サイト</a></h1>
     <div class="headercontainer">
-      <p class="navi"><a href=index.html>入力</a></p>
-      <p class="navi"><a href=test.html>テスト</a></p>
-      <p class="navi"><a href=statistics.html>統計</a></p>
+      <p class="navi"><a href=input.php>入力</a></p>
+      <p class="navi"><a href=list.php>リスト</a></p>
+      <p class="navi"><a href=test.php>テスト</a></p>
+      <p class="navi"><a href=statistics.php>統計</a></p>
     </div>
   </div>
   <div id="mainbox">
     <div class ="contents">
-      <h2>入力</h2>
-
-    </div>
-  </div>
-  <script src="js/main.js"></script>
-</body>
-</html>
