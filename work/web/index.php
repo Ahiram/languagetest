@@ -1,6 +1,6 @@
 <?php
 
-include('_header.php');
+require('../app/_parts/_header.php');
 
 ?>
       <div>
@@ -15,6 +15,8 @@ include('_header.php');
       </div>
     </div>
   </div>
-  <script src="js/main.js"></script>
-</body>
-</html>
+  <script src="../js/main.js"></script>
+
+<?php
+
+require('../app/_parts/_footer.php');
