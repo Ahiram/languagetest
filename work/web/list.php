@@ -1,6 +1,7 @@
 <?php
 
 require('../app/_parts/_header.php');
+require('../app/functions.php');
 ?>
       <div>
         <ul>

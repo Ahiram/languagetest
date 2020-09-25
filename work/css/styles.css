@@ -49,6 +49,11 @@ body{
   padding-top: 80px;
   margin-top:-80px;
 }
+
+.contents ul{
+  list-style: none;
+}
+
 .SNS a{
   text-decoration: none;
   color:hsl(var(--my-hue), 35%, 55%);
