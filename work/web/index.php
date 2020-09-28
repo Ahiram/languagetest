@@ -1,12 +1,12 @@
 <?php
 
-require('../app/_parts/_header.php');
+require('../app/_parts/_headerlogin.php');
 require('../app/functions.php');
-
+createToken()
 ?>
       <div>
         <h1>Login</h1>
-        <form action="php/process.php" method="POST">
+        <form action="index2.php" method="POST">
           <label for="username"><p>User</p></label>
           <input type="text" id="username" name="username">
           <label for="password"><p>Password</p></label>

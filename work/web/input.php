@@ -14,7 +14,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
   fwrite($fp, $word."|". $sentence. "|". $jp . "\n");
   fclose($fp);
   header('Location: http://localhost:8080/web/list.php');
-    exit;
+  exit;
 }
 
 createToken()

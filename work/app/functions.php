@@ -20,6 +20,15 @@ function validateToken() {
   }
 }
 
+function validatepass(){
+  if (
+    USERNAME !== filter_input(INPUT_POST, 'username') ||
+    PASSWORD !== filter_input(INPUT_POST, 'password')
+  ) {
+    exit('Invalid Login');
+  }
+}
+
 function datacontain()
 {
   $word=h(filter_input(INPUT_POST, 'word'));
