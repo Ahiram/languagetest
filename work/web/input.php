@@ -8,10 +8,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
   
   $word=h(filter_input(INPUT_POST, 'word'));
   $sentence=h(filter_input(INPUT_POST, 'sentence'));
-  $jp=h(filter_input(INPUT_POST, 'jp'));
 
   $fp = fopen(FILENAME,'a');
-  fwrite($fp, $word."|". $sentence. "|". $jp . "\n");
+  $n=count(file(FILENAME))+1;
+  fwrite($fp, $n."|".$word."|".$sentence."\n");
   fclose($fp);
   header('Location: http://localhost:8080/web/list.php');
   exit;
@@ -27,8 +27,6 @@ createToken()
           <input type="text" name="word">
           <label for="sentence"><p>Sentence</p></label>
           <input type="text" name="sentence">
-          <label for="jp"><p>和訳</p></label>
-          <input type="text" name="jp">
           <input type="hidden" name="token" value="<?= h($_SESSION['token']); ?>">
           <button>OK</button>
         </form>
