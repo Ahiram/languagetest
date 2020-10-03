@@ -58,6 +58,16 @@ body{
   text-decoration: none;
   color:hsl(var(--my-hue), 35%, 55%);
 }
+
+#selectbox{
+  width: 45px;
+  font-size:25px;
+}
+
+#lists ul{
+  font-size: 20px;
+}
+
 @media (min-width: 600px) {
   #header h1{
     font-size: 1.5rem;
