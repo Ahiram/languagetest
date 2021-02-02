@@ -13,7 +13,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
   $n=count(file(FILENAME))+1;
   fwrite($fp, $n."|".$word."|".$sentence."|0|0|".strtotime("now")."\n");
   fclose($fp);
-  header('Location: http://localhost:8080/web/list.php');
+  header('Location: http://localhost:8080/web/input.php');
   exit;
 }
 
