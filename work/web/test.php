@@ -42,6 +42,8 @@ createToken()
                 $testlists[]='<label><input type="checkbox" name="ids[]" value="'.$line[0].'">'.$line[2].'</label>';
               } elseif ((strtotime("now")-$line[5])/86400>=30) {
                 $testlists[]='<label><input type="checkbox" name="ids[]" value="'.$line[0].'">'.$line[2].'</label>';
+              } elseif ($line[4] <= 3){
+                $testlists[]='<label><input type="checkbox" name="ids[]" value="'.$line[0].'">'.$line[2].'</label>';
               } else {
                 continue;
               }

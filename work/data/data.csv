@@ -1,23 +1,50 @@
-1|set forth|The president set forth his policies in a speech on TV.|0|0|1612254671
-2|provision|The provisions apply to law enforcement in general. |0|0|1612254800
-3|decapod|decapod|0|0|1612254861
-4|cephalopod|cephalopod|0|0|1612254920
-5|gestation|gestation period|0|0|1612254999
-6|ad libitum|take in food ad libitum|0|0|1612255118
-7|in question|The point in question is whether or not the company should purchase a new building site.|0|0|1612255962
-8|align to|This technical term is completely alien to me|0|0|1612255986
-9|dignity|dignity of the human person|0|0|1612256345
-10|strain|If any strain imposed on the animal can not be justified by overriding interest, this constitutes a disregard for the animal&#039;s dignity.|0|0|1612256730
-11|impose|If any strain imposed on the animal cannot be justified by overriding interests, this constitutes a disregard for the animal’s dignity.|0|0|1612257017
-12|deem|Strain is deemed to be present in particular if pain, suffering or harm is inflicted on the animal, if it is exposed to anxiety or humiliation, if there is major interference with its appearance or its abilities or if it is excessively instrumentalised.|0|0|1612257100
-13|pros and cons|Let&#039;s discuss the pros and cons of the proposal.|0|0|1612257864
-14|swine|It would be like casting pearls before swine.|0|0|1612258579
-15|avalanche|The avalanche is believed to be a result of the recent warm weather.|0|0|1612259744
-16|sedate|A diplomat must appear sedate, whatever the circumstances.|0|0|1612261566
-17|hypothermic|hypothermic|0|0|1612262378
-18|empathetic|empathetic|0|0|1612262396
-19|compassionate|I was helped by a compassionate lady.|0|0|1612262426
-20|legislation|Legislation against smoking is increasing in many states.|0|0|1612262696
-21|resilient|resilient|0|0|1612347590
-22|ordinance|municipal ordinance|0|0|1612377303
-23|husbandry|Methods for animal husbandry|0|0|1612378201
+1|set forth|The president set forth his policies in a speech on TV.|1|1|1612788126
+2|provision|The provisions apply to law enforcement in general. |1|1|1612788126
+3|decapod|decapod|1|1|1612788126
+4|cephalopod|cephalopod|1|1|1612788126
+5|gestation|gestation period|1|1|1612788126
+6|ad libitum|take in food ad libitum|1|1|1612788126
+7|in question|The point in question is whether or not the company should purchase a new building site.|1|1|1612788126
+8|align to|This technical term is completely alien to me|1|1|1612788126
+9|dignity|dignity of the human person|1|1|1612788126
+10|strain|If any strain imposed on the animal can not be justified by overriding interest, this constitutes a disregard for the animal&#039;s dignity.|1|1|1612788126
+11|impose|If any strain imposed on the animal cannot be justified by overriding interests, this constitutes a disregard for the animal’s dignity.|1|1|1612788126
+12|deem|Strain is deemed to be present in particular if pain, suffering or harm is inflicted on the animal, if it is exposed to anxiety or humiliation, if there is major interference with its appearance or its abilities or if it is excessively instrumentalised.|0|1|1612257100
+13|pros and cons|Let&#039;s discuss the pros and cons of the proposal.|0|1|1612257864
+14|swine|It would be like casting pearls before swine.|1|1|1612788126
+15|avalanche|The avalanche is believed to be a result of the recent warm weather.|1|1|1612788126
+16|sedate|A diplomat must appear sedate, whatever the circumstances.|1|1|1612788126
+17|hypothermic|hypothermic|0|1|1612262378
+18|empathetic|empathetic|1|1|1612788126
+19|compassionate|I was helped by a compassionate lady.|1|1|1612788126
+20|legislation|Legislation against smoking is increasing in many states.|1|1|1612788126
+21|resilient|resilient|0|1|1612347590
+22|ordinance|municipal ordinance|0|1|1612377303
+23|husbandry|Methods for animal husbandry|0|1|1612378201
+24|veterinarian|veterinarian|1|1|1612788126
+25|intimately|communicate intimately with|1|1|1612788126
+26|implementation|Test implementation|1|1|1612788126
+27|compromise|make a compromise with|0|1|1612781750
+28|validity|His theory has no validity at all.|1|1|1612788126
+29|position paper|position paper|1|1|1612788126
+30|entail|The position entails grave responsibility.|1|1|1612788126
+31|objective|The applicant shall also show that the objective of the experiment cannot be achieved using procedures without animal experiments that are suitable according to the state of the art.|1|1|1612788126
+32|indispensable|Animal experiments which inflict pain, suffering or harm on animals, induce anxiety in them, substantially impair their general well-being or which may disregard their dignity in any other way must be limited to the indispensable minimum.|1|1|1612788126
+33|in any other way|I cannot interpret it|0|1|1612782778
+34|inflict|inflict a blow [a wound] on [upon] a person|1|1|1612788126
+35|euthanisation|The euthanisation of animals and measures or surgical procedures that result in pain, suffering, harm or fear shall not be performed in rooms where animals are housed.|1|1|1612788126
+36|adequate|If surgical procedures or other measures cause an animal more than minimal pain, then they shall only be performed under local or general anaesthesia, followed by adequate pain control measures, provided this is permitted by the objective of the experiment.|1|1|1612788126
+37|sentient|Use organisms that are non-sentient.|1|1|1612788126
+38|humane|humane treatment|1|1|1612788126
+39|abattoir|The army&#039;s raid on the enemy turned into a major abattoir.|1|1|1612788126
+40|pyrogen|pyrogen|0|1|1612784545
+41|parenteral|parenteral|1|1|1612788126
+42|hypothalamus|hypothalamus|1|1|1612788126
+43|consequence|as a consequence|1|1|1612788126
+44|tiered|a tiered mound|1|1|1612788126
+45|Daphnia|Daphnia|1|1|1612788126
+46|irritation|eye [throat] irritation|1|1|1612788126
+47|corrosion|corrosion|1|1|1612788126
+48|lesion|severity of  lesions|1|1|1612788126
+49|metastasis|metastasis|0|0|1612791128
+50|prostate|prostate|0|0|1612791156
